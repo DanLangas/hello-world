@@ -1,3 +1,6 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Now click on Console Output. Here we can see every process in verbose mode.</h1>
+
+<p>At last, we will see "Finished: SUCCESS" line at the end of the console output.</p>
+
+<h2>Congratulations! our Jenkins successfully integrated with GitHub now and ready to us </h2>
+
